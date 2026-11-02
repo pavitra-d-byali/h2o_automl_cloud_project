@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+sample_request.json
+automl_leaderboard.csv
+models/*
+!models/.gitkeep

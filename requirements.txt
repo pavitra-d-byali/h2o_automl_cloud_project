@@ -1,0 +1,7 @@
+h2o
+pandas
+scikit-learn
+fastapi
+uvicorn[standard]
+pydantic
+requests
